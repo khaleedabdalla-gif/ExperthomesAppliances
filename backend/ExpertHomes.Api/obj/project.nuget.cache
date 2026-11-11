@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+az7MSWljvc=",
+  "success": true,
+  "projectFilePath": "C:\\Dev2\\ExpertHomes\\backend\\ExpertHomes.Api\\ExpertHomes.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdalla.khaleed\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.13\\microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "C:\\Users\\abdalla.khaleed\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
